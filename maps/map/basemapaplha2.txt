@@ -1,0 +1,24 @@
+98 7 64 64
+// Character association
+#f=fill.png
+#c=ceiling_one.png
+#s=ceiling_two.png
+#j=jump_pad_one.png
+#k=jump_pad_two.png
+#l=jump_pad_three.png
+#p=pillar_top.png
+#q=pillar_bottom.png
+#z=floor_tile_one.png
+#x=floor_tile_two.png
+#v=floor_tile_three.png
+#u=stairs_down.png
+#i=stairs_up.png
+#a=floor_death.png
+#map
+jjjjjffffff...........................................ssccscsccssccss..................sccsccccjjj
+jjjjjffffff...................................................................................kjjj
+jjjjjcssccc...................................................................................kjjj
+jjjjjj...............kjk.pzxxxxxp.....p...........j.j.ppppppppppppppu.........................kjjj
+jjjjjp.............p.....qffffffq....pqzxvvxzp..j.....qfffffffflffflfu.................ijkkkjkjjjj
+jjjjjq....p....p...qk....qflflflq...pqffflffjqj.......kfflffkffflflflfu...............iffflffffjjj
+jjjjjfzxzvqzzxvqzxvqzxxzxflfffllfzzzqfkffflffkfaaaaaaajflffffkkfllflflfzxvzxzvxzzvvxxzfflfffflfjjj
